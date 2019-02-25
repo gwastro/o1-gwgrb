@@ -19,7 +19,7 @@ to be observed by Fermi-GBM, our estimate of the distance would become 224+88
 binary neutron star mergers to our search-estimated rate of false alarms, we estimate that there is a 1
 in 4 chance this candidate is astrophysical in origin.
 
-## Example Reading the 1-OGC 151030 posetrior samples ##
+## Example Reading the 1-OGC 151030 posterior samples ##
 
 ## License and Citation
 
