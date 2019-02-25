@@ -20,7 +20,10 @@ to be observed by Fermi-GBM, our estimate of the distance would become 224+88
 binary neutron star mergers to our search-estimated rate of false alarms, we estimate that there is a 1
 in 4 chance this candidate is astrophysical in origin.
 
-## Example Reading the 1-OGC 151030 posterior samples ##
+## Reading the 1-OGC 151030 posterior samples ##
+
+We have provided the posterior samples from the parameter estimation analysis of 1-OGC 151030 as
+an HDF file, `posterior.hdf`. See [How to read the posterior file](https://github.com/gwastro/o1-gwgrb/blob/master/How%20to%20read%20the%20posterior%20file.ipynb) for details on how to read this file.
 
 ## License and Citation
 
