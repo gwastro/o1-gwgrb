@@ -7,9 +7,6 @@
  <sub>2. Leibniz Universitat Hannover, D-30167 Hannover, Germany</sub>  
 
 ## Introduction ##
-
-
-## Example Reading the 1-OGC 151030 posetrior samples ##
 We present a search for binary neutron star mergers during the first observing run of Advanced
  LIGO that produce both gravitational-wave and gamma-ray emission similar to GW170817 and GRB
 170817A. We introduce a method to detect sources that do not produce significant gravitational-wave
@@ -21,6 +18,8 @@ to be observed by Fermi-GBM, our estimate of the distance would become 224+88
 −78 Mpc. By comparing the rate of
 binary neutron star mergers to our search-estimated rate of false alarms, we estimate that there is a 1
 in 4 chance this candidate is astrophysical in origin.
+
+## Example Reading the 1-OGC 151030 posetrior samples ##
 
 ## License and Citation
 
