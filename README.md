@@ -6,7 +6,7 @@
  <sub>1. [Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>  
  <sub>2. Leibniz Universitat Hannover, D-30167 Hannover, Germany</sub>  
 
-## Introduction ##
+## Abstract ##
 We present a search for binary neutron star mergers during the first observing run of Advanced
  LIGO that produce both gravitational-wave and gamma-ray emission similar to GW170817 and GRB
 170817A. We introduce a method to detect sources that do not produce significant gravitational-wave
