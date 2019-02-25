@@ -27,7 +27,7 @@ an HDF file, `posterior.hdf`. See [How to read the posterior file](https://githu
 
 We have also provided the configuration file `inference.ini` used for the
 parameter esimtation analysis (which specifies the prior used), and the script
-used to run `pycbc_inference` to generate the results `run.sh`. These may be
+used to run `pycbc_inference` to generate the results (`run.sh`). These may be
 found in the `scripts` directory.
 
 ## License and Citation
