@@ -25,6 +25,11 @@ in 4 chance this candidate is astrophysical in origin.
 We have provided the posterior samples from the parameter estimation analysis of 1-OGC 151030 as
 an HDF file, `posterior.hdf`. See [How to read the posterior file](https://github.com/gwastro/o1-gwgrb/blob/master/How%20to%20read%20the%20posterior%20file.ipynb) for details on how to read this file.
 
+We have also provided the configuration file `inference.ini` used for the
+parameter esimtation analysis (which specifies the prior used), and the script
+used to run `pycbc_inference` to generate the results `run.sh`. These may be
+found in the `scripts` directory.
+
 ## License and Citation
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-sa/3.0/us/88x31.png "Creative Commons License")
