@@ -1,4 +1,5 @@
-# Preprint 
+# [Read the associated paper on Arxiv]()
+
 # Potential Gravitational-wave and Gamma-ray Multi-messenger Candidate from Oct. 30, 2015
 **Alexander H. Nitz<sup>1,2</sup>,  Alex B. Nielsen<sup>1,2</sup>, Collin Capano<sup>1,2</sup>
 
