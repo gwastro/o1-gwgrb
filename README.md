@@ -1,10 +1,11 @@
-# [Read the associated paper on Arxiv]()
 
 # Potential Gravitational-wave and Gamma-ray Multi-messenger Candidate from Oct. 30, 2015
 **Alexander H. Nitz<sup>1,2</sup>,  Alex B. Nielsen<sup>1,2</sup>, Collin Capano<sup>1,2</sup>
 
  <sub>1. [Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>  
  <sub>2. Leibniz Universitat Hannover, D-30167 Hannover, Germany</sub>  
+ 
+## [Read the associated paper on Arxiv]()
 
 ## Abstract ##
 We present a search for binary neutron star mergers during the first observing run of Advanced
