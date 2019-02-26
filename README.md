@@ -37,7 +37,7 @@ found in the `scripts` directory.
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-@article{Nitz:2019XXX,
+@article{Nitz:1902.09496,
       author         = "Alexander H. Nitz, Alex B. Nielsen, and Collin D. Capano
       title          = "{Potential Gravitational-wave and Gamma-ray Multi-messenger
                          Candidate from Oct. 30, 2015}",
