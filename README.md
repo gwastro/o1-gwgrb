@@ -5,7 +5,7 @@
  <sub>1. [Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>  
  <sub>2. Leibniz Universitat Hannover, D-30167 Hannover, Germany</sub>  
  
-## [Read the associated paper on Arxiv]()
+## [Read the associated paper on Arxiv](https://arxiv.org/abs/1902.09496)
 
 ## Abstract ##
 We present a search for binary neutron star mergers during the first observing run of Advanced
@@ -41,11 +41,11 @@ We encourage use of these data in derivative works. If you use the material prov
       author         = "Alexander H. Nitz, Alex B. Nielsen, and Collin D. Capano
       title          = "{Potential Gravitational-wave and Gamma-ray Multi-messenger
                          Candidate from Oct. 30, 2015}",
-      year           = "2018",
-      eprint         = "XXX.XXXX",
+      year           = "2019",
+      eprint         = "1902.09496",
       archivePrefix  = "arXiv",
       primaryClass   = "gr-qc",
-      SLACcitation   = "%%CITATION = ARXIV:XXXX.XXXXX;%%"
+      SLACcitation   = "%%CITATION = ARXIV:1902.09496;%%"
 }
 ```
 
