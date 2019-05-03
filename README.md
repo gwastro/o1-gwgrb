@@ -37,14 +37,19 @@ found in the `scripts` directory.
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-@article{Nitz:1902.09496,
-      author         = "Alexander H. Nitz, Alex B. Nielsen, and Collin D. Capano
-      title          = "{Potential Gravitational-wave and Gamma-ray Multi-messenger
-                         Candidate from Oct. 30, 2015}",
+@article{Nitz:2019bxt,
+      author         = "Nitz, Alexander H. and Nielsen, Alex B. and Capano,
+                        Collin D.",
+      title          = "{Potential Gravitational-wave and Gamma-ray
+                        Multi-messenger Candidate from Oct. 30, 2015}",
+      journal        = "Astrophys. J. Lett.",
+      volume         = "876",
       year           = "2019",
+      pages          = "L4",
+      doi            = "10.3847/2041-8213/ab18a1",
       eprint         = "1902.09496",
       archivePrefix  = "arXiv",
-      primaryClass   = "gr-qc",
+      primaryClass   = "astro-ph.HE",
       SLACcitation   = "%%CITATION = ARXIV:1902.09496;%%"
 }
 ```
